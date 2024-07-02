@@ -10,7 +10,7 @@
 
 > 프로젝트 팀명 : 스파로스 4기 누가해조<br>
 > 프로젝트 기간 : 2024.02.23 ~ 2024.04.17<br>
-> 프로젝트 소개 : 당신의 굿즈를 위한 굿즈 판매 및 경쟁입찰 어플리케이션, 굿즈굿즈덕
+> 프로젝트 소개 : 당신의 굿즈를 위한 굿즈 경매 어플리케이션, 굿즈굿즈덕
 > 
 
 [굿즈굿즈덕](https://www.goodsgoodsduck.shop/)
@@ -42,11 +42,11 @@
 
 - **BE** `Spring boot(3.2.5)` **,** `IntelliJ(2023.2.5)`
 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SprigBoot&logoColor=white"> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"> <br> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <br> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+    <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SprigBoot&logoColor=white"> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"> <br> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <br> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 
 - **FE** `TypeScript(5.1.3)`, `Visual Studio Code(1.84.2)`
 
-    <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+    <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 - **공통**
 
@@ -245,5 +245,5 @@
 | 🐬 박하윤 <br> 내용작성해주세요. |
 |:-------|
 
-| 👻 서이현 <br> 내용작성해주세요. |
+| 👻 서이현 <br> MSA,카프카,웹플럭스,인프라까지 여러모로 도전을 많이 했던 프로젝트였습니다. 특히 MSA를 하면서 스무여개의 컨테이너를 관리하는게 힘들기도 했지만, 많이 배울 수 있는 기회였다고 생각합니다. 팀원 모두가 열심히 학습한 걸 공유하고, 트러블은 같이 해결하고, 타협하지 않고 회의한 시간들이 있어서 이런 규모의 프로젝트를 <br> 성공적으로 끝낼 수 있었던 것 같습니다. 앞으로 웹플럭스 + SSE 에 대해서 좀 더 공부해서 이번 프로젝트에서 아쉬웠던 점을 보완하고 싶습니다. 굿즈굿즈덕과 열심히 해준 누 팀원들 감사합니다~! |
 |:-------|
