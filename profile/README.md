@@ -17,6 +17,10 @@
 
 <img alt="굿즈굿즈덕큐알" src="https://github.com/4-Nuga/.github/assets/122415662/ee04d519-c831-4129-a33b-7afe2f48325a" width="120" height="120">
 
+**Google Play Store 링크**
+
+<a href="https://play.google.com/store/apps/details?id=com.nu.shop.goodsgoodsduck.www.twa"><img alt="Play Store CI" src="https://github.com/4-Nuga/.github/assets/122415662/0ed27a9b-8ed7-437a-992b-e1bbc393366e" /></a>
+
 
 ### 💻 기획 배경
 
