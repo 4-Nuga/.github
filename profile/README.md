@@ -50,7 +50,7 @@
 
 - **FE** `TypeScript(5.1.3)`, `Visual Studio Code(1.84.2)`
 
-    <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=blue">
 
 - **공통**
 
@@ -237,7 +237,7 @@
 
 ## 개발 후기
 
-| 😎 박준표 <br> 내용작성해주세요. |
+| 😎 박준표 <br> 이번 프로젝트는 프로젝트 진행하면서 생각보다도 큰 규모 때문에 어떤 기술을 어떻게 도입해야 하고, 기술을 도입하기 앞서 어떤 과정이 선행되어야 하는지에 관해 팀원들과 고민하면서 프로젝트를 진행했습니다. 함께 고민하고 공부하고 트러블을 해결하는 과정을 통해 함께 성장하고, 코드 리뷰를 통해 팀원들의 코드를 이해하는 시간을 가지면서 현업의 협업이 이런 것이구나 하는 것에 관해 많이 배울 수 있었습니다. 고생 많으셨습니다!  |
 |:-------|
 
 | 🐇 최형문 <br> 내용작성해주세요. |
